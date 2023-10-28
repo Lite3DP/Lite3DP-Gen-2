@@ -1,1 +1,1 @@
-# Lite3DP-S2
+# Lite3DP Gen 2
