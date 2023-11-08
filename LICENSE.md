@@ -1,3 +1,5 @@
+Copyright 2023 LITE3DP LLC
+
 **HARDWARE: CC BY-NC-SA 4.0**
 ![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/d5b61f73-1888-487f-a326-ccce4e01dd5f)
 
