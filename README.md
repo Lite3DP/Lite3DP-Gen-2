@@ -6,7 +6,7 @@ We are delighted to introduce the new Lite3DP Gen 2. We will be here expanding a
 Due to the need to introduce custom components and more complex manufacturing processes, we have moved slightly away from the strong DIY imprint of the S1 and Zero models. However, for those enthusiasts who want to build an entirely Gen 2-style machine, we will list non-standard components and possible adaptations/solutions below.
 
 1. SMD soldering.
-Most electronic components are no longer through-hole and surface soldering must be performed. It's not as simple as with a soldering iron, but you can order a stencil along with the PCBs, use solder paste and an electric oven or heat gun to achieve reflow. Please research this topic carefully.
+Most electronic components are no longer through-hole and surface mount must be performed. It's not as simple as with a soldering iron, but you can order a stencil along with the PCBs, use solder paste and an electric oven or heat gun to achieve reflow. Please research this topic carefully.
 
 2. Stepper motor.
 We incorporate a custom stepper motor: Nema 8 with built-in T3.5 leadscrew, 128mm long. This is not a standard motor, but it is common to find a 100mm long leadscrew, which you can use only by giving up a few millimeters of build height.
