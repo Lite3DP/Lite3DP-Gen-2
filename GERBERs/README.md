@@ -9,3 +9,6 @@
 ![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/0dcfed2d-cbb1-4646-9980-9f6ead1a9db1)
 
 
+**OLED board:**
+
+![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/77f362da-ae42-401f-937f-14d9ba4da545)
