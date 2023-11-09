@@ -12,3 +12,9 @@
 **OLED board:**
 
 ![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/77f362da-ae42-401f-937f-14d9ba4da545)
+
+
+**4PDT switch board:**
+
+![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/ea0e2468-24a8-430e-80a7-89b1cf564f1b)
+
