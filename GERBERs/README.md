@@ -18,3 +18,7 @@
 
 ![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/ea0e2468-24a8-430e-80a7-89b1cf564f1b)
 
+
+**AUX CONN BOARD:**
+
+![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/c9202227-0a4e-424c-a6b0-c22072cef0e4)
