@@ -21,6 +21,6 @@ Like the stepper motor leadscrew, the 115mm length of the linear guide is not co
 The original cone is made from aluminum, offering a large additional heat dissipation surface area. Use the plastic model with caution that the LCD display does not exceed 60°C. You can apply aluminum film inside and reduce the power of UV light.
     
 6. Resin vat / build platform.
-Resin vat can be made of plastic only in PLA and PP since other materials react chemically with the resins. We provide the design of an aluminum PCB to cut out and obtain the vat resin frame and the surface of the build platform.
+Resin vat can be made of plastic only in PLA and PP since other materials chemically react with resins. In the plastic alternative resin vat design, the Gerber of an aluminum PCB is included from which it can be cut out and obtain the vat frame and the surface of the build platform. This way it is not necessary to order metal cutting parts, and they can be ordered together with the PCBs.
 
 Please visit our website lite3dp.com and we welcome inquiries at support@lite3dp.com. Thank you!
