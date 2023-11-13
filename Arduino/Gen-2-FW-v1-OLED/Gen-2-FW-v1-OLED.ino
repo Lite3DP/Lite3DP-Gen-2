@@ -3,7 +3,7 @@
 /*
   Lite3DP Gen 2 v1.0 - OLED auxiliary display
 
-  https://github.com/Lite3DP/Lite3DP-Gen2
+  https://github.com/Lite3DP/Lite3DP-Gen-2
 
   MIT License
 
