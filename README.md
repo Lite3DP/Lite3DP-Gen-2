@@ -12,7 +12,7 @@ Most electronic components are no longer through-hole and surface mount must be 
 We incorporate a custom stepper motor: Nema 8 with built-in T3.5 leadscrew, 128mm long. This is not a standard motor, but it is common to find a 100mm long leadscrew, which you can use only by giving up a few millimeters of build height.
    
 3. LCD display.
-We use a non-standard LCD display, with an FPC cable and custom protective glass. You can get it as a spare part in the Crowd Supply campaign. (https://www.crowdsupply.com/lite3dp/lite3dp-gen-2)
+We use a non-standard LCD display, with an FPC cable and custom protective glass. You can get it as a spare part in the [Crowd Supply campaign ] (https://www.crowdsupply.com/lite3dp/lite3dp-gen-2).
    
 4. Linear guide.
 Like the stepper motor leadscrew, the 115mm length of the linear guide is not common, but you can use 100mm length.
