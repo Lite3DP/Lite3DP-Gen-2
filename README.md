@@ -18,7 +18,7 @@ We incorporate a custom stepper motor: Nema 8 with built-in T3.5 leadscrew, 128m
 We use a non-standard LCD display, with custom FPC cable and protective glass. You can get it as a spare part on [Crowd Supply](https://www.crowdsupply.com/lite3dp/lite3dp-gen-2).
    
 4. Linear guide.
-Like the stepper motor leadscrew, the 115mm length of the linear guide is not common, but you can use 100mm length.
+Like the stepper motor leadscrew, the 115mm length of the linear guide is not common, but you can also use 100mm length instead.
    
 5. Aluminum light cone.
 The original cone is made from aluminum, offering a large additional heat dissipation surface area. Use the plastic model with caution that the LCD display does not exceed 60°C. You can apply aluminum film inside and reduce the power of UV light.
