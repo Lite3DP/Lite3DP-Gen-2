@@ -26,4 +26,4 @@ The original cone is made from aluminum, offering a large additional heat dissip
 6. Resin vat / build platform.
 Resin vat can be made of plastic only in PLA and PP since other materials chemically react with resins. In the plastic alternative resin vat design, the Gerber of an aluminum PCB is included from which it can be cut out and obtain the vat frame and the surface of the build platform. This way it is not necessary to order metal cutting parts, and they can be ordered together with the PCBs.
 
-Please visit our website [Lite3DP.com](https://www.lite3dp.com/)and we welcome inquiries at support@lite3dp.com. Thank you!
+Please visit our website [Lite3DP.com](https://www.lite3dp.com/) and we welcome inquiries at support@lite3dp.com. Thank you!
