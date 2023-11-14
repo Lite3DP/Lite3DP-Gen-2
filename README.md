@@ -1,5 +1,7 @@
 # Lite3DP Gen 2
 
+![CAMP-8-pledge2a](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/fe4fda94-f0a0-4a23-88a9-63add3b5ac06)
+
 Hi everyone! Thanks for stopping by here!
 
 We are delighted to introduce the new Lite3DP Gen 2. We will be here expanding and improving the open source documentation, with a focus on the study, modification, improvement and repair of the kits and pre-assembled machines offered on [Crowd Supply](https://www.crowdsupply.com/lite3dp/lite3dp-gen-2).
