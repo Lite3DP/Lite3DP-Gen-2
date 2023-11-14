@@ -2,7 +2,7 @@
 
 Hi everyone! Thanks for stopping by here!
 
-We are delighted to introduce the new Lite3DP Gen 2. We will be here expanding and improving the open source documentation, with a focus on the study, modification, improvement and repair of the kits and pre-assembled machines offered on Crowd Supply.
+We are delighted to introduce the new Lite3DP Gen 2. We will be here expanding and improving the open source documentation, with a focus on the study, modification, improvement and repair of the kits and pre-assembled machines offered on [Crowd Supply](https://www.crowdsupply.com/lite3dp/lite3dp-gen-2).
 
 Due to the need to introduce custom components and more complex manufacturing processes, we have moved slightly away from the strong DIY imprint of the S1 model, in which all the components are standard and the soldering with through-hole. However, for those enthusiasts who want to build an entirely Gen 2-style machine (OLED auxiliary display suggested), below we list non-standard components and possible adaptations/solutions.
 
