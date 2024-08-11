@@ -24,7 +24,7 @@
 ![image](https://github.com/Lite3DP/Lite3DP-Gen-2/assets/70020406/c9202227-0a4e-424c-a6b0-c22072cef0e4)
 
 
-**EXPANSION SHIELD:**
+**EXPANSION SHIELD (BETA):**
 
 ![image](https://github.com/user-attachments/assets/faa268da-9449-466e-a272-420345a081b6)
 
