@@ -15,3 +15,5 @@ This is a 4 layer PCB, containing:
 You can use the following library for its control:
 
 https://github.com/adafruit/Adafruit_AW9523?tab=readme-ov-file
+
+To be plugged into the Gen 2 auxiliary connector.
