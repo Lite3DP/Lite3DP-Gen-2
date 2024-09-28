@@ -14,13 +14,24 @@ The machines were rigorously tested before being shipped. However, we have heard
 
 2) If the touchscreen display does not display anything when you turn on the machine, or displays a blurry image, or does not respond to touch:
 
-   2.1) The flexible flat cable connecting the touchscreen board to the main board may be losing contact with one of the two connectors. Please loosen the 4 M3x12 screws on the front of the machine and check that the cable is connected properly.
+There is most likely **an exposed trace on the main board that is touching the black aluminum rectangular tube**, the one under the mask display. To check, please carefully remove the 2 M2 screws holding the linear guide to the rear aluminum plate of the cover (the bottom one and the top one, those who have the nuts). Then remove all 12 black M3 screws from the base of the machine. Disconnect the 4-wire cable that connects the main board to the base board. Be careful of the loose inner reflective cone. Look for scratched traces around the display, yellow area in the image below. If so, **simply place a piece of electrical tape over the exposed trace and reassemble.** (Before reassembling, please check that the flexible flat cable that connects the touch board to the main board is correctly positioned.) 
 
-   2.2) If the above did not resolve the issue, it may be that there is an exposed trace on the main board that is touching the black aluminum rectangular tube, the one under the mask display. To check, please carefully remove the 2 M2 screws holding the linear guide to the rear aluminum plate of the cover (the bottom one and the top one, those who have the nuts). Then remove all 12 black M3 screws from the base of the machine. Disconnect the 4-wire cable that connects the main board to the base board. Check that there are no exposed traces around the display (it will look gold), at the bottom of the main board and around the mask display. If so, simply place a piece of electrical tape over the exposed trace and reassemble.
+![image](https://github.com/user-attachments/assets/bdaee06c-19ef-478f-b6a8-3973f620e76d)
 
-3) Some thermoformed plastic covers may have contracted during manufacturing, causing them to scratch against the folded aluminum plate. Here you can simply remove the 4 M3 screws and turn the black POM wheels over, leaving the letters "L" and "R" facing the inside of the machine, like the following image:
+Example of what an exposed trace looks like:
+
+![370587735-61a19d3a-b51b-4551-bf8a-fbd302da99e3](https://github.com/user-attachments/assets/1c40bf3e-3446-4f5a-a473-d0db40d9e2e6)
+
+
+3) Some thermoformed plastic covers may have contracted during manufacturing, causing them to scratch against the folded aluminum plate. Here you can simply remove the 4 M3 screws and turn the black POM wheels over, leaving the letters "L" and "R" facing the inside of the machine, like the following image (Please be careful when handling the cover. Excessive force may break it):
 
 ![IMG_20240926_074132](https://github.com/user-attachments/assets/6bf5756a-f067-475d-871a-aac65bc21569)
+
+
+4) Manually stretching the silicone cover tightly, from the edges and in both directions, will help a better fit on the resin vat. (Repeat several times)
+
+![image](https://github.com/user-attachments/assets/8ee62d7b-7d2d-41ad-ad7d-cb174affc913)
+
 
 
 **Some clarifications:**
