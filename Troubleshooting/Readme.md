@@ -33,6 +33,14 @@ Example of what an exposed trace looks like:
 ![image](https://github.com/user-attachments/assets/8ee62d7b-7d2d-41ad-ad7d-cb174affc913)
 
 
+5) The carriage includes a concave magnet and ball system, allowing for convenient clamping, easy platform leveling and tightening with a single hand knob screw. This tightening is achieved through the action of 2 fixed screws and the hand knob screw. When tightening the latter, the 3 screws must be symmetrical in contact with the 10mm diameter spherical part of the platform. It is a system as simple as it is effective, achieving a perfectly firm hold, although for its proper functioning a correct position of the two fixed screws is necessary.
+In the latest revisions to the Gen 2 design, and in order to facilitate the positioning of the two fixed screws, we decided to include two CNC machined nuts. However, due to small inaccuracies in the length of the screws or the placement of the threaded insert, there may be some cases where the screws do not reach the desired depth, even by adjustment. In these cases it is recommended to proceed as follows:
+a) Raise the carriage to its maximum height, to facilitate the operation. (As always, be careful not to exceed the maximum height.)
+b) Unscrew the two fixed screws and remove the two machined nuts.
+c) Re-screw the two screws without the machined nuts (store them just in case).
+d) To achieve the proper depth of the two fixed screws, insert the platform into the concave magnet. Screw (preferably manually for greater sensitivity) the two screws until you feel that there begins to be a slight resistance.
+e) Check that the adjustment was correct by tightening the platform with the hand knob screw. A correct position of the screws will ensure that when tightening the hand knob screw the platform will be perfectly fixed, and will not move or rotate during tightening. (See reference image in section 10.2 of the quick start guide).
+
 
 **Some clarifications:**
 
@@ -41,3 +49,5 @@ Example of what an exposed trace looks like:
 2) Next to the power button, at the bottom of the main board, works the LDO voltage regulator, which can reach 90°C/200°F in normal operation.
 
 3) In the menu, after selecting the micro SD card folder, you should be able to see a brief preview with the sections of the part/s to be printed. If not, check that the Slicer configuration is correct or that the micro SD card is in FAT32 format (and not damaged).
+
+4) In all types of release films, we have experimentally observed that the peel forces are higher in recently installed films, so some precautions must be taken: select lower lifting speeds and if possible print smaller sections.
