@@ -35,10 +35,15 @@ Example of what an exposed trace looks like:
 
 5) The carriage includes a concave magnet and ball system, allowing for convenient clamping, easy platform leveling and tightening with a single hand knob screw. This tightening is achieved through the action of 2 fixed screws and the hand knob screw. When tightening the latter, the 3 screws must be symmetrical in contact with the 10mm diameter spherical part of the platform. It is a system as simple as it is effective, achieving a perfectly firm hold, although for its proper functioning a correct position of the two fixed screws is necessary.
 In the latest revisions to the Gen 2 design, and in order to facilitate the positioning of the two fixed screws, we decided to include two CNC machined nuts. However, due to small inaccuracies in the length of the screws or the placement of the threaded insert, there may be some cases where the screws do not reach the desired depth, even by adjustment. In these cases it is recommended to proceed as follows:
+
 a) Raise the carriage to its maximum height, to facilitate the operation. (As always, be careful not to exceed the maximum height.)
+
 b) Unscrew the two fixed screws and remove the two machined nuts.
+
 c) Re-screw the two screws without the machined nuts (store them just in case).
+
 d) To achieve the proper depth of the two fixed screws, insert the platform into the concave magnet. Screw (preferably manually for greater sensitivity) the two screws until you feel that there begins to be a slight resistance.
+
 e) Check that the adjustment was correct by tightening the platform with the hand knob screw. A correct position of the screws will ensure that when tightening the hand knob screw the platform will be perfectly fixed, and will not move or rotate during tightening. (See reference image in section 10.2 of the quick start guide).
 
 
