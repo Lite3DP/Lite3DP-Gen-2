@@ -46,6 +46,12 @@ d) To achieve the proper depth of the two fixed screws, insert the platform into
 
 e) Check that the adjustment was correct by tightening the platform with the hand knob screw. A correct position of the screws will ensure that when tightening the hand knob screw the platform will be perfectly fixed, and will not move or rotate during tightening. (See reference image in section 10.2 of the quick start guide).
 
+6) The application counts all files in the print folder, since depending on the Slicer and its version it may include some additional files like preview images, gcode, a readme file, etc. However, there was supposed to be a black screen before each image, so the last layers corresponding to these additional files that are not slice images are not printed at all. Evidently at some point this black screen was removed from the code without realizing it. The solutions to this problem are:
+   
+a) Remove the files that the Slicer generates that do not correspond to slice images from the print folder on the micro SD card.
+
+b) Update the firmware to v1.1 or later.
+
 
 **Some clarifications:**
 
