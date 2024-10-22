@@ -54,6 +54,9 @@ a) Remove the files that the Slicer generates that do not correspond to slice im
 b) Update the firmware to v1.1 or later.
 
 
+7) For the "Touch pencil" test print and 0.025mm layer thickness, a missing line of code was found, which made the screen black before drawing the circular section in the last layers, printing the progress screen. It was corrected in firmware v1.1. (This did not affect other layer thicknesses or other test files or micro SD card files, which have their own printing function.)
+
+
 **Some clarifications:**
 
 1) All machines have been delivered with firmware v1.0 loaded.
