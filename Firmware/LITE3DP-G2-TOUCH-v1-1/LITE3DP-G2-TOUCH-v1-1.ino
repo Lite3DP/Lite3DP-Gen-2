@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////
 
 /*
-  Lite3DP Gen 2 v1.0 - Touchscreen auxiliary display
+  Lite3DP Gen 2 v1.1 - Touchscreen auxiliary display
 
   https://github.com/Lite3DP/Lite3DP-Gen-2
 
